@@ -1,7 +1,7 @@
 # Bengali Punctuation Model
 The model we will train will infer punctuation marks between each word for Bengali sentences. Complete the following three steps to train the model. Also, please check each notebook for details on each step.
 ## 1. Preparing Dataset
-In this notebook, we will clean Bengali sentences. Please prepare train.csv (given data) with fold column in advance. In this notebook, "train_df_with_audio_length.csv" is the file.
+In this notebook, we will clean Bengali sentences. Please prepare train.csv (given data) with fold column in advance. In this notebook, "train_with_fold.csv" is the file.
 
 [bengaliai-punctuation-model-prepare.ipynb](https://github.com/espritmirai/bengali-punctuation-model/blob/main/bengaliai-punctuation-model-prepare.ipynb)
 ## 2. Splitting Dataset
