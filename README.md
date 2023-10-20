@@ -12,3 +12,6 @@ This notebook formats Bengali sentences into training data.
 This notebook trains the punctuation model. The training dataset after steps 1 and 2 can also be found at [here](https://www.kaggle.com/datasets/takuji/punctuation-model-dataset).
 
 [bengaliai-punctuation-model-train.ipynb](https://github.com/espritmirai/bengali-punctuation-model/blob/main/bengaliai-punctuation-model-train.ipynb)
+## Reference
+* GPU I used: single RTX 4090
+* Training time: 46 hours/epoch
